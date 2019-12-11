@@ -1,2 +1,2 @@
 # LeetCode
- Notes and codes for LeetCode questions.
+Codes and notes for LeetCode algorithm questions.
